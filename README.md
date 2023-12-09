@@ -1,10 +1,7 @@
 # Kwenen-RVC-training
 
 <div align="center">
-    <svg height="100" width="100"> 
-        <rect width="100" height="100" fill="#333333" rx="5" ry='5' /> 
-        <image href="./WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px"/>
-        </svg> 
+  <img src="https://github.com/FlyDogDaDa/Kwenen-RVC-training/blob/main/WebUI/Kwenen-RVC-training_fill_color_icon.jpg" height="100px" width="100px"/>
 </div>
 
 **Project introduction：**
