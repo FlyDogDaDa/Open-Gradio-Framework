@@ -1,7 +1,7 @@
 # Kwenen-RVC-training
 
 <div align="center">
-  <img src="https://github.com/FlyDogDaDa/Kwenen-RVC-training/raw/6c459edee03137a68d0bfbb3deba28ec5940d031/WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px" style="background-color: #333333;"/>
+  <img src="https://github.com/FlyDogDaDa/Kwenen-RVC-training/raw/6c459edee03137a68d0bfbb3deba28ec5940d031/WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px" style="background-color: #333333; border-radius: 5px;"/>
 </div>
 
 **Project introduction：**
