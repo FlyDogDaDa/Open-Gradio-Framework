@@ -52,4 +52,4 @@ if __name__ == "__main__":
     # 啟動應用程式
     with open(os.path.join("WebUI", "Launch_setting.json"), "r") as file:
         launch_setting = json.load(file)
-    MainPage().launch(*launch_setting)
+    MainPage().launch(**launch_setting)
