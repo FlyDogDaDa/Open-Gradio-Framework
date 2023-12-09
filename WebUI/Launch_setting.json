@@ -15,20 +15,19 @@
     "height": 500,
     "width": "100%",
     "encrypt": null,
-    "favicon_path": "WebUI\\Kwenen-RVC-training_Icon.png",
+    "favicon_path": "Kwenen-RVC-training_Icon.png",
     "ssl_keyfile": null,
     "ssl_certfile": null,
     "ssl_keyfile_password": null,
     "ssl_verify": false,
     "quiet": false,
-    "show_api": false,
+    "show_api": true,
     "file_directories": null,
     "allowed_paths": null,
     "blocked_paths": null,
     "root_path": "",
-    "state_session_capacity": 10000,
     "app_kwargs": {
         "share_server_address": null,
         "share_server_protocol": null
     }
-}  
+}
