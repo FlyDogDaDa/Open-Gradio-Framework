@@ -50,6 +50,6 @@ class MainPage(gr.TabbedInterface):
 
 if __name__ == "__main__":
     # 啟動應用程式
-    with open("Launch_setting.json", "r") as file:
-        launch_setting = json.load(file.read())
+    with open("WebUI\\Launch_setting.json", "r") as file:
+        launch_setting = json.load(file)
     MainPage().launch(*launch_setting)
