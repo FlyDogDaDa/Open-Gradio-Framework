@@ -1,6 +1,10 @@
 # Kwenen-RVC-training
 
-![Kwenen-RVC-training_Icon](https://github.com/FlyDogDaDa/Kwenen-RVC-training/blob/6c459edee03137a68d0bfbb3deba28ec5940d031/WebUI/Kwenen-RVC-training_Icon.png "Kwenen-RVC-Icon")
+<div align="center">
+    <svg height="100px" width="100px" style="background-color:grey">
+        <image href="https://github.com/FlyDogDaDa/Kwenen-RVC-training/blob/6c459edee03137a68d0bfbb3deba28ec5940d031/WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px" />
+    </svg>
+</div>
 
 **Project introduction：**
 A multi-integrated training tool that automatically adapts to your device, making training RVC models more convenient and simple.
