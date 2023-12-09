@@ -43,8 +43,7 @@ class MainPage(gr.TabbedInterface):
         渲染主頁面
         """
         self.clear()
-        # for name, page in self._pages.items():
-        #     self.add(gr.Tab(name, page.render()))
+        self._load_pages
         self.render()
 
 
