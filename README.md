@@ -3,7 +3,7 @@
 <div align="center">
     <svg height="100" width="100"> 
         <rect width="100" height="100" fill="#333333" rx="5" ry='5' /> 
-        <image href="https://github.com/FlyDogDaDa/Kwenen-RVC-training/raw/6c459edee03137a68d0bfbb3deba28ec5940d031/WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px"/>
+        <image href="./WebUI/Kwenen-RVC-training_Icon.png" height="100px" width="100px"/>
         </svg> 
 </div>
 
